@@ -13,11 +13,17 @@
     url('//db.onlinewebfonts.com/t/8e22783d707ad140bffe18b2a3812529.svg#Digital-7')
       format('svg');
 }
+
 body{
     color: white;
     background-color: #333333;
     font-family: digital, Arial;
+    background: url(https://cdn.shopify.com/s/files/1/0011/6005/2795/articles/169_3929a8d9-2ae2-41ac-a839-fe186185b5ca.jpg?v=1642153901);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position-x: center;
 }
+
 .time-sets{
     display:grid;
     grid-template-columns: 50px 200px 50px;
